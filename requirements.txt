@@ -1,0 +1,10 @@
+ipykernel
+ollama
+tqdm
+bm25s
+numpy
+pandas
+bm25s
+PyStemmer
+sentence-transformers
+faiss-cpu
